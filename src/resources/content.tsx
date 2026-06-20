@@ -6,7 +6,7 @@ const person: Person = {
   lastName: "Venkat",
   name: `Seenivaasan Venkat`,
   role: "AI Techincal Project Manager",
-  avatar: "/images/avatar.jpg",
+  avatar: "/images/IMG_0186.jpg",
   email: "seenivenkat1410@gmail.com",
   location: "Asia/India", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Tamil", "German(Basic)"], // optional: Leave the array empty if you don't want to display languages
@@ -59,7 +59,7 @@ const home: Home = {
   path: "/",
   image: "/images/og/home.jpg",
   label: "Home",
-  title: `${person.name}'s Portfolio`,
+  title: `${person.Seeni}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
   headline: <>Balancing AI with human touch that elevates the user experience</>,
   featured: {
